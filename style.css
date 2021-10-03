@@ -1,3 +1,20 @@
 h3{
     color: red !important;
 }
+
+body, html {
+    height: 100%;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("https://source.unsplash.com/user/erondu/1600x900");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
